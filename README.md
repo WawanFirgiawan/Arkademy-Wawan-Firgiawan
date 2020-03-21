@@ -9,6 +9,8 @@ Program ini dibuat untuk memenuhi syarat seleksi dari Arkademy - Siap menjadi th
 
 # 3. Untuk soal nomor 6 (Mebuat Website CRUD) saya tempatkan satu folder dan saya masukkan di Drive : https://drive.google.com/open?id=1PwiU0wCIpnw7fo5zMdnIptWmCh-iulBp
 
+# 4. Full Repossitory Gihub bisa diakses https://github.com/WawanFirgiawan/Arkademy-Wawan-Firgiawan1 (Maaf Keterlambatan untuk mengupload file)
+
 
 # Demo Website CRUD
 
