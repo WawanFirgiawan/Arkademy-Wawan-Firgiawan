@@ -9,7 +9,8 @@ Program ini dibuat untuk memenuhi syarat seleksi dari Arkademy - Siap menjadi th
 
 # 3. Untuk soal nomor 6 (Mebuat Website CRUD) saya tempatkan satu folder dan saya masukkan di Drive : https://drive.google.com/open?id=1PwiU0wCIpnw7fo5zMdnIptWmCh-iulBp
 
-Screenshot Demo Soal 6
+
+# Demo Website CRUD
 
 ![Alt text](6a.PNG?raw=true "Demo 6_a")
 ![Alt text](6b.PNG?raw=true "Demo 6_b")
