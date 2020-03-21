@@ -11,7 +11,7 @@ Program ini dibuat untuk memenuhi syarat seleksi dari Arkademy - Siap menjadi th
 
 Screenshot Demo Soal 6
 
-![Alt text](img/1.PNG?raw=true "Demo 6_a")
-![Alt text](img/2.PNG?raw=true "Demo 6_b")
-![Alt text](img/3.PNG?raw=true "Demo 6_c")
+![Alt text](1.PNG?raw=true "Demo 6_a")
+![Alt text](2.PNG?raw=true "Demo 6_b")
+![Alt text](3.PNG?raw=true "Demo 6_c")
 
